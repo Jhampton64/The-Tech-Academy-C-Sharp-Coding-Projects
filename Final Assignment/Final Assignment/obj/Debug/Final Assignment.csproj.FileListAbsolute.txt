@@ -1,0 +1,12 @@
+C:\Users\jhamp\Desktop\Git java\The-Tech-Academy-C-Sharp-Coding-Projects\EF6-Code-First-Demo-master\EF6CodeFirstDemo\bin\Debug\EF6CodeFirstDemo.exe.config
+C:\Users\jhamp\Desktop\Git java\The-Tech-Academy-C-Sharp-Coding-Projects\EF6-Code-First-Demo-master\EF6CodeFirstDemo\bin\Debug\EF6CodeFirstDemo.exe
+C:\Users\jhamp\Desktop\Git java\The-Tech-Academy-C-Sharp-Coding-Projects\EF6-Code-First-Demo-master\EF6CodeFirstDemo\bin\Debug\EF6CodeFirstDemo.pdb
+C:\Users\jhamp\Desktop\Git java\The-Tech-Academy-C-Sharp-Coding-Projects\EF6-Code-First-Demo-master\EF6CodeFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\jhamp\Desktop\Git java\The-Tech-Academy-C-Sharp-Coding-Projects\EF6-Code-First-Demo-master\EF6CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jhamp\Desktop\Git java\The-Tech-Academy-C-Sharp-Coding-Projects\EF6-Code-First-Demo-master\EF6CodeFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\jhamp\Desktop\Git java\The-Tech-Academy-C-Sharp-Coding-Projects\EF6-Code-First-Demo-master\EF6CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jhamp\Desktop\Git java\The-Tech-Academy-C-Sharp-Coding-Projects\EF6-Code-First-Demo-master\EF6CodeFirstDemo\obj\Debug\Final Assignment.csprojAssemblyReference.cache
+C:\Users\jhamp\Desktop\Git java\The-Tech-Academy-C-Sharp-Coding-Projects\EF6-Code-First-Demo-master\EF6CodeFirstDemo\obj\Debug\Final Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jhamp\Desktop\Git java\The-Tech-Academy-C-Sharp-Coding-Projects\EF6-Code-First-Demo-master\EF6CodeFirstDemo\obj\Debug\Final Assignment.csproj.CopyComplete
+C:\Users\jhamp\Desktop\Git java\The-Tech-Academy-C-Sharp-Coding-Projects\EF6-Code-First-Demo-master\EF6CodeFirstDemo\obj\Debug\EF6CodeFirstDemo.exe
+C:\Users\jhamp\Desktop\Git java\The-Tech-Academy-C-Sharp-Coding-Projects\EF6-Code-First-Demo-master\EF6CodeFirstDemo\obj\Debug\EF6CodeFirstDemo.pdb
